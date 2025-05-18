@@ -1,0 +1,10 @@
+import { $Enums } from "@prisma/client";
+import { auth } from "~/server/auth";
+
+export async function isAdmin() {
+    const session = await auth();
+    if (!session) return false;
+    if (session.user.role !== $Enums.Role.ADMIN)
+        return false
+    return true
+}

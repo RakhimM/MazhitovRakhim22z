@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "OrderItem" ALTER COLUMN "orderId" DROP NOT NULL;
+
+-- AlterTable
+ALTER TABLE "User" ALTER COLUMN "role" SET DEFAULT 'ADMIN';

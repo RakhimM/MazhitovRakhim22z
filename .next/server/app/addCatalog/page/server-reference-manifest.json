@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40c7df50618595186117bc914fe07dd0f66df6503d": {
+      "workers": {
+        "app/addCatalog/page": {
+          "moduleId": "[project]/.next-internal/server/app/addCatalog/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/api/action/catalog.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/addCatalog/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

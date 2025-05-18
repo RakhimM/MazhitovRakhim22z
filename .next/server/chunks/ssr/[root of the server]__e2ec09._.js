@@ -1,0 +1,491 @@
+module.exports = {
+
+"[project]/src/app/_components/addProduct/detailForm.tsx (client proxy) <module evaluation>": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+__turbopack_esm__({
+    "AddProductForm": (()=>AddProductForm)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server-edge.js [app-rsc] (ecmascript)");
+;
+const AddProductForm = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerClientReference"])(function() {
+    throw new Error("Attempted to call AddProductForm() from the server but AddProductForm is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.");
+}, "[project]/src/app/_components/addProduct/detailForm.tsx <module evaluation>", "AddProductForm");
+}}),
+"[project]/src/app/_components/addProduct/detailForm.tsx (client proxy)": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+__turbopack_esm__({
+    "AddProductForm": (()=>AddProductForm)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server-edge.js [app-rsc] (ecmascript)");
+;
+const AddProductForm = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerClientReference"])(function() {
+    throw new Error("Attempted to call AddProductForm() from the server but AddProductForm is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.");
+}, "[project]/src/app/_components/addProduct/detailForm.tsx", "AddProductForm");
+}}),
+"[project]/src/app/_components/addProduct/detailForm.tsx [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$_components$2f$addProduct$2f$detailForm$2e$tsx__$28$client__proxy$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/src/app/_components/addProduct/detailForm.tsx (client proxy) <module evaluation>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$_components$2f$addProduct$2f$detailForm$2e$tsx__$28$client__proxy$29$__ = __turbopack_import__("[project]/src/app/_components/addProduct/detailForm.tsx (client proxy)");
+;
+__turbopack_export_namespace__(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$_components$2f$addProduct$2f$detailForm$2e$tsx__$28$client__proxy$29$__);
+}}),
+"[externals]/buffer [external] (buffer, cjs)": (function(__turbopack_context__) {
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, m: module, e: exports, t: __turbopack_require_real__ } = __turbopack_context__;
+{
+const mod = __turbopack_external_require__("buffer", () => require("buffer"));
+
+module.exports = mod;
+}}),
+"[externals]/punycode [external] (punycode, cjs)": (function(__turbopack_context__) {
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, m: module, e: exports, t: __turbopack_require_real__ } = __turbopack_context__;
+{
+const mod = __turbopack_external_require__("punycode", () => require("punycode"));
+
+module.exports = mod;
+}}),
+"[project]/src/supabase/supabaseClient.ts [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+__turbopack_esm__({
+    "getImagesFromSupabase": (()=>getImagesFromSupabase),
+    "supabase": (()=>supabase)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$supabase$2b$auth$2d$helpers$2d$next_f8b894d594312658efeac32a7dbbee01$2f$node_modules$2f40$supabase$2f$auth$2d$helpers$2d$nextjs$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/@supabase+auth-helpers-next_f8b894d594312658efeac32a7dbbee01/node_modules/@supabase/auth-helpers-nextjs/dist/index.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$headers$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/headers.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$supabase$2b$supabase$2d$js$40$2$2e$49$2e$4$2f$node_modules$2f40$supabase$2f$supabase$2d$js$2f$dist$2f$module$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/@supabase+supabase-js@2.49.4/node_modules/@supabase/supabase-js/dist/module/index.js [app-rsc] (ecmascript) <locals>");
+const supabaseUrl = ("TURBOPACK compile-time value", "https://wsfwukshetdvuhbghnjj.supabase.co");
+const supabaseKey = ("TURBOPACK compile-time value", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndzZnd1a3NoZXRkdnVoYmdobmpqIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc0NjM2NTcxMywiZXhwIjoyMDYxOTQxNzEzfQ.uoZwdQLyWC_SrsPFKV8s9NFNVgAD0vqap-Ks9tSvmns");
+const supabase = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$supabase$2b$supabase$2d$js$40$2$2e$49$2e$4$2f$node_modules$2f40$supabase$2f$supabase$2d$js$2f$dist$2f$module$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__["createClient"])(supabaseUrl, supabaseKey);
+;
+;
+;
+async function getImagesFromSupabase() {
+    const supabase = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$supabase$2b$auth$2d$helpers$2d$next_f8b894d594312658efeac32a7dbbee01$2f$node_modules$2f40$supabase$2f$auth$2d$helpers$2d$nextjs$2f$dist$2f$index$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["createServerComponentClient"])({
+        cookies: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$headers$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["cookies"]
+    });
+    let folder = '';
+    console.log(`Попытка получить файлы из папки: "${folder || 'корень'}"`);
+    let { data, error } = await supabase.storage.from('product-images').list(folder, {
+        limit: 100
+    });
+    if (error) {
+        console.error(`Ошибка получения изображений из папки "${folder || 'корень'}":`, error.message);
+    }
+    console.log(`Файлы из папки "${folder || 'корень'}":`, data);
+    if (!data || data.length === 0) {
+        folder = 'uploads';
+        console.log(`Файлы не найдены в папке корня, пытаемся из папки: "${folder}"`);
+        ({ data, error } = await supabase.storage.from('product-images').list(folder, {
+            limit: 100
+        }));
+        if (error) {
+            console.error(`Ошибка получения изображений из папки "${folder}":`, error.message);
+            return [];
+        }
+        console.log(`Файлы из папки "${folder}":`, data);
+    }
+    if (!data) {
+        console.log(`Файлы не найдены в бакете и папке: "${folder}"`);
+        return [];
+    }
+    const images = data.map((item)=>({
+            name: item.name,
+            url: `https://wsfwukshetdvuhbghnjj.supabase.co/storage/v1/object/public/product-images/${folder ? folder + '/' : ''}${item.name}`
+        }));
+    return images;
+}
+}}),
+"[project]/src/app/addProduct/page.tsx [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+__turbopack_esm__({
+    "default": (()=>AddProductPage)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/server/db.ts [app-rsc] (ecmascript)");
+// import { getImagesFromSupabase } from "~/lib/getSupabaseImages";
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$_components$2f$addProduct$2f$detailForm$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/app/_components/addProduct/detailForm.tsx [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$supabase$2f$supabaseClient$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/supabase/supabaseClient.ts [app-rsc] (ecmascript)");
+;
+;
+;
+;
+async function AddProductPage() {
+    const catalog = await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].category.findMany();
+    const images = await (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$supabase$2f$supabaseClient$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["getImagesFromSupabase"])();
+    console.log('❌ ❌ ❌ ❌ ❌ ❌ ❌');
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$_components$2f$addProduct$2f$detailForm$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["AddProductForm"], {
+        images: images,
+        catalog: catalog
+    }, void 0, false, {
+        fileName: "[project]/src/app/addProduct/page.tsx",
+        lineNumber: 12,
+        columnNumber: 10
+    }, this);
+}
+}}),
+"[project]/src/app/addProduct/page.tsx [app-rsc] (ecmascript, Next.js server component)": ((__turbopack_context__) => {
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, t: __turbopack_require_real__ } = __turbopack_context__;
+{
+__turbopack_export_namespace__(__turbopack_import__("[project]/src/app/addProduct/page.tsx [app-rsc] (ecmascript)"));
+}}),
+"[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+// "use server";
+// import { revalidatePath } from "next/cache";
+// import { redirect } from "next/navigation";
+// import { z } from "zod";
+// import { auth } from "~/server/auth";
+// import { db } from "~/server/db";
+// import { createClient } from '@supabase/supabase-js';
+// export async function createProduct(formData: FormData) {
+//   const fd = z
+//     .object({
+//       name: z.string(),
+//       description: z.string(),
+//       price: z.coerce.number().positive(),
+//       imageUrl: z.string().url().optional().or(z.literal("")),
+//       categoryId: z.string(),
+//     })
+//     .parse({
+//       name: formData.get("name"),
+//       description: formData.get("description"),
+//       price: formData.get("price"),
+//       imageUrl: formData.get("imageUrl"),
+//       categoryId: formData.get("categoryId"),
+//     });
+//   await db.product.create({
+//     data: {
+//       name: fd.name,
+//       description: fd.description,
+//       price: fd.price,
+//       imageUrl: fd.imageUrl || "",
+//       categoryId: fd.categoryId,
+//     },
+//   });
+//   revalidatePath("/product");
+//   redirect("/product"); 
+// }
+// const supabase = createClient(
+//   process.env.NEXT_PUBLIC_SUPABASE_URL!,
+//   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+// );
+// // export async function createProduct(formData: FormData) {
+// //   const name = formData.get("name") as string;
+// //   const description = formData.get("description") as string;
+// //   const price = parseFloat(formData.get("price") as string);
+// //   const categoryId = formData.get("categoryId") as string;
+// //   const file = formData.get("image") as File;
+// //   if (!file || file.size === 0) throw new Error("Файл изображения не выбран");
+// //   const filePath = `products/${Date.now()}-${file.name}`;
+// //   // Загрузка в Supabase Storage
+// //   const { error: uploadError } = await supabase.storage
+// //     .from('product-images')
+// //     .upload(filePath, file, { upsert: true });
+// //   if (uploadError) throw uploadError;
+// //   const { data: imageData } = supabase
+// //     .storage
+// //     .from('product-images')
+// //     .getPublicUrl(filePath);
+// //   const imageUrl = imageData?.publicUrl;
+// //   if (!imageUrl) throw new Error("Не удалось получить URL изображения");
+// //   // Сохранение в PostgreSQL
+// //   await db.product.create({
+// //     data: {
+// //       name,
+// //       description,
+// //       price,
+// //       categoryId,
+// //       imageUrl,
+// //     },
+// //   });
+// //   redirect('/admin/products'); // или куда тебе нужно
+// // }
+// export async function updateProduct(formData: FormData) {
+//   const data = z
+//     .object({
+//       id: z.string(),
+//       name: z.string(),
+//       description: z.string().optional(),
+//       price: z.coerce.number().nonnegative(),
+//       imageUrl: z.string().url().optional(),
+//       categoryId: z.string().optional(),
+//     })
+//     .parse({
+//       id: formData.get("id"),
+//       name: formData.get("name"),
+//       description: formData.get("description"),
+//       price: formData.get("price"),
+//       imageUrl: formData.get("imageUrl"),
+//       categoryId: formData.get("categoryId"),
+//     });
+//   await db.product.update({
+//     where: { id: data.id },
+//     data: {
+//       name: data.name,
+//       description: data.description,
+//       price: data.price,
+//       imageUrl: data.imageUrl,
+//       categoryId: data.categoryId,
+//     },
+//   });
+//   revalidatePath(`/products/${data.id}`); 
+// }
+// export async function deleteProduct(formData: FormData) {
+//     const fd = z
+//       .object({
+//         id: z.string(),
+//       })
+//       .parse({
+//         id: formData.get("id"),
+//       });
+//     await db.product.delete({ where: { id: fd.id } });
+//     redirect("/product");
+//   }
+// export async function addProductCart(formData: FormData) {
+//   const session = await auth();
+//   if (!session?.user?.id) {
+//     throw new Error("Пользователь не авторизован");
+//   }
+//   const { productId } = z
+//     .object({
+//       productId: z.string(),
+//     })
+//     .parse({
+//       productId: formData.get("productId"),
+//     });
+//   const existingCartItem = await db.cartItem.findFirst({
+//     where: {
+//       userId: session.user.id,
+//       productId,
+//     },
+//   });
+//   if (existingCartItem) {
+//     await db.cartItem.update({
+//       where: { id: existingCartItem.id },
+//       data: { quantity: { increment: 1 } },
+//     });
+//   } else {
+//     await db.cartItem.create({
+//       data: {
+//         userId: session.user.id,
+//         productId,
+//         quantity: 1,
+//       },
+//     });
+//   }
+//    redirect("/cart");
+// }
+/* __next_internal_action_entry_do_not_use__ {"40094cc3511c14df934dada66fa7bc341e45a3b94e":"deleteProduct","402a9d19ac85ddfe5e756ab967533a992e15f5f144":"createProduct","4059b511e7dba04158e5765d1d54f92b6110b921af":"updateProduct","406e64bc091614f2aa8ce965c56415d6e5f59e9fdd":"addProductCart"} */ __turbopack_esm__({
+    "addProductCart": (()=>addProductCart),
+    "createProduct": (()=>createProduct),
+    "deleteProduct": (()=>deleteProduct),
+    "updateProduct": (()=>updateProduct)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$server$2d$reference$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/build/webpack/loaders/next-flight-loader/server-reference.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$server$2f$app$2d$render$2f$encryption$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/server/app-render/encryption.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$api$2f$navigation$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/api/navigation.react-server.js [app-rsc] (ecmascript) <module evaluation>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$auth$2f$index$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/server/auth/index.ts [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/server/db.ts [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$action$2d$validate$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/build/webpack/loaders/next-flight-loader/action-validate.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$navigation$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/next@15.1.7_@babel+core@7.2_53a975098b7f0e102aeab6f375a839e6/node_modules/next/dist/client/components/navigation.react-server.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/node_modules/.pnpm/zod@3.24.2/node_modules/zod/lib/index.mjs [app-rsc] (ecmascript)");
+;
+;
+;
+;
+;
+;
+async function /*#__TURBOPACK_DISABLE_EXPORT_MERGING__*/ createProduct(formData) {
+    const name = formData.get("name");
+    const description = formData.get("description");
+    const price = Number(formData.get("price"));
+    const stock = Number(formData.get("stock"));
+    const categoryId = formData.get("categoryId");
+    const imageUrls = formData.getAll("imageUrls");
+    if (!imageUrls.length) throw new Error("Не выбраны изображения");
+    const product = await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].product.create({
+        data: {
+            name,
+            description,
+            price,
+            stock,
+            categoryId,
+            images: {
+                create: imageUrls.map((url)=>({
+                        url
+                    }))
+            }
+        }
+    });
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$navigation$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["redirect"])(`/product/${product.id}`);
+}
+const productUpdateSchema = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].object({
+    id: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string().cuid(),
+    name: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string().min(1),
+    description: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string().optional(),
+    price: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].number().nonnegative(),
+    imageUrl: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string().url().optional(),
+    categoryId: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string().cuid()
+});
+async function /*#__TURBOPACK_DISABLE_EXPORT_MERGING__*/ updateProduct(data) {
+    // Валидируем входные данные, чтобы получить типизированный объект
+    const parsedData = productUpdateSchema.parse(data);
+    // Формируем массив для создания изображений, если URL валиден
+    const imagesData = parsedData.imageUrl ? [
+        {
+            url: parsedData.imageUrl
+        }
+    ] : [];
+    await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].product.update({
+        where: {
+            id: parsedData.id
+        },
+        data: {
+            name: parsedData.name,
+            description: parsedData.description,
+            price: parsedData.price,
+            images: {
+                deleteMany: {},
+                create: imagesData
+            },
+            categoryId: parsedData.categoryId
+        }
+    });
+}
+async function /*#__TURBOPACK_DISABLE_EXPORT_MERGING__*/ deleteProduct(formData) {
+    const fd = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].object({
+        id: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string()
+    }).parse({
+        id: formData.get("id")
+    });
+    await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].product.delete({
+        where: {
+            id: fd.id
+        }
+    });
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$navigation$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["redirect"])("/product");
+}
+async function /*#__TURBOPACK_DISABLE_EXPORT_MERGING__*/ addProductCart(formData) {
+    const session = await (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$auth$2f$index$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["auth"])();
+    if (!session?.user?.id) {
+        throw new Error("Пользователь не авторизован");
+    }
+    const { productId, quantity } = __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].object({
+        productId: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string(),
+        quantity: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$zod$40$3$2e$24$2e$2$2f$node_modules$2f$zod$2f$lib$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["z"].string().transform((val)=>parseInt(val, 10))
+    }).parse({
+        productId: formData.get("productId"),
+        quantity: formData.get("quantity")
+    });
+    const existingCartItem = await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].cartItem.findFirst({
+        where: {
+            userId: session.user.id,
+            productId
+        }
+    });
+    if (existingCartItem) {
+        await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].cartItem.update({
+            where: {
+                id: existingCartItem.id
+            },
+            data: {
+                quantity: {
+                    increment: quantity
+                }
+            }
+        });
+    } else {
+        await __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$server$2f$db$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["db"].cartItem.create({
+            data: {
+                userId: session.user.id,
+                productId,
+                quantity
+            }
+        });
+    }
+    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$navigation$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["redirect"])("/cart");
+}
+;
+(0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$action$2d$validate$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["ensureServerEntryExports"])([
+    createProduct,
+    updateProduct,
+    deleteProduct,
+    addProductCart
+]);
+(0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$server$2d$reference$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerServerReference"])(createProduct, "402a9d19ac85ddfe5e756ab967533a992e15f5f144", null);
+(0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$server$2d$reference$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerServerReference"])(updateProduct, "4059b511e7dba04158e5765d1d54f92b6110b921af", null);
+(0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$server$2d$reference$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerServerReference"])(deleteProduct, "40094cc3511c14df934dada66fa7bc341e45a3b94e", null);
+(0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$15$2e$1$2e$7_$40$babel$2b$core$40$7$2e$2_53a975098b7f0e102aeab6f375a839e6$2f$node_modules$2f$next$2f$dist$2f$build$2f$webpack$2f$loaders$2f$next$2d$flight$2d$loader$2f$server$2d$reference$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerServerReference"])(addProductCart, "406e64bc091614f2aa8ce965c56415d6e5f59e9fdd", null);
+}}),
+"[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript) <locals>": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, z: __turbopack_require_stub__ } = __turbopack_context__;
+{
+__turbopack_esm__({});
+;
+;
+;
+;
+}}),
+"[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript) <module evaluation>": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, t: __turbopack_require_real__ } = __turbopack_context__;
+{
+__turbopack_esm__({});
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__('[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => "[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)" } [app-rsc] (ecmascript) <locals>');
+}}),
+"[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript) <exports>": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, t: __turbopack_require_real__ } = __turbopack_context__;
+{
+__turbopack_esm__({
+    "40094cc3511c14df934dada66fa7bc341e45a3b94e": (()=>__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["deleteProduct"]),
+    "402a9d19ac85ddfe5e756ab967533a992e15f5f144": (()=>__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["createProduct"]),
+    "4059b511e7dba04158e5765d1d54f92b6110b921af": (()=>__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["updateProduct"]),
+    "406e64bc091614f2aa8ce965c56415d6e5f59e9fdd": (()=>__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["addProductCart"])
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_import__("[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$locals$3e$__ = __turbopack_import__('[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => "[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)" } [app-rsc] (ecmascript) <locals>');
+}}),
+"[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { r: __turbopack_require__, f: __turbopack_module_context__, i: __turbopack_import__, s: __turbopack_esm__, v: __turbopack_export_value__, n: __turbopack_export_namespace__, c: __turbopack_cache__, M: __turbopack_modules__, l: __turbopack_load__, j: __turbopack_dynamic__, P: __turbopack_resolve_absolute_path__, U: __turbopack_relative_url__, R: __turbopack_resolve_module_id_path__, b: __turbopack_worker_blob_url__, g: global, __dirname, x: __turbopack_external_require__, y: __turbopack_external_import__, t: __turbopack_require_real__ } = __turbopack_context__;
+{
+__turbopack_esm__({
+    "40094cc3511c14df934dada66fa7bc341e45a3b94e": (()=>__TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$exports$3e$__["40094cc3511c14df934dada66fa7bc341e45a3b94e"]),
+    "402a9d19ac85ddfe5e756ab967533a992e15f5f144": (()=>__TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$exports$3e$__["402a9d19ac85ddfe5e756ab967533a992e15f5f144"]),
+    "4059b511e7dba04158e5765d1d54f92b6110b921af": (()=>__TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$exports$3e$__["4059b511e7dba04158e5765d1d54f92b6110b921af"]),
+    "406e64bc091614f2aa8ce965c56415d6e5f59e9fdd": (()=>__TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$exports$3e$__["406e64bc091614f2aa8ce965c56415d6e5f59e9fdd"])
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$module__evaluation$3e$__ = __turbopack_import__('[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => "[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)" } [app-rsc] (ecmascript) <module evaluation>');
+var __TURBOPACK__imported__module__$5b$project$5d2f2e$next$2d$internal$2f$server$2f$app$2f$addProduct$2f$page$2f$actions$2e$js__$7b$__ACTIONS_MODULE0__$3d3e$__$225b$project$5d2f$src$2f$app$2f$api$2f$action$2f$product$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$exports$3e$__ = __turbopack_import__('[project]/.next-internal/server/app/addProduct/page/actions.js { ACTIONS_MODULE0 => "[project]/src/app/api/action/product.ts [app-rsc] (ecmascript)" } [app-rsc] (ecmascript) <exports>');
+}}),
+
+};
+
+//# sourceMappingURL=%5Broot%20of%20the%20server%5D__e2ec09._.js.map

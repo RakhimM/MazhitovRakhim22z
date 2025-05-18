@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/PP_2/KRB2/12345%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/rater/src/app/_components/official/back.tsx"],"sourcesContent":["'use client';\r\n\r\nimport { useRouter } from 'next/navigation';\r\n\r\nexport default function BackButton() {\r\n  const router = useRouter();\r\n\r\n  return (\r\n    <button\r\n      onClick={() => router.back()}\r\n      className=\"text-purple-600 hover:text-purple-800 transition-colors flex items-center\"\r\n    >\r\n      <svg\r\n        xmlns=\"http://www.w3.org/2000/svg\"\r\n        className=\"h-5 w-5 mr-1\"\r\n        viewBox=\"0 0 20 20\"\r\n        fill=\"currentColor\"\r\n      >\r\n        <path\r\n          fillRule=\"evenodd\"\r\n          d=\"M9.707 16.707a1 1 0 01-1.414 0l-6-6a1 1 0 010-1.414l6-6a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l4.293 4.293a1 1 0 010 1.414z\"\r\n          clipRule=\"evenodd\"\r\n        />\r\n      </svg>\r\n      Назад\r\n    </button>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;AAEA;;;AAFA;;AAIe,SAAS;;IACtB,MAAM,SAAS,CAAA,GAAA,oPAAA,CAAA,YAAS,AAAD;IAEvB,qBACE,4SAAC;QACC,SAAS,IAAM,OAAO,IAAI;QAC1B,WAAU;;0BAEV,4SAAC;gBACC,OAAM;gBACN,WAAU;gBACV,SAAQ;gBACR,MAAK;0BAEL,cAAA,4SAAC;oBACC,UAAS;oBACT,GAAE;oBACF,UAAS;;;;;;;;;;;YAEP;;;;;;;AAIZ;GAvBwB;;QACP,oPAAA,CAAA,YAAS;;;KADF"}},
+    {"offset": {"line": 61, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
